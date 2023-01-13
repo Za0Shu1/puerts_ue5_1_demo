@@ -1,0 +1,224 @@
+{
+    "E:/UnrealProjects/PuertsDemo/TypeScript/Res/Point/TestPoint.ts": {
+        "version": "ef00c79737df6f32db2e764d0b80e7b5",
+        "processed": true,
+        "isBP": true
+    },
+    "E:/UnrealProjects/PuertsDemo/TypeScript/Res/UI/TS_Player.ts": {
+        "version": "4ce1dd205aedebd988a1a4caf580b657",
+        "processed": true,
+        "isBP": true
+    },
+    "E:/UnrealProjects/PuertsDemo/Plugins/Puerts/Typing/cpp/index.d.ts": {
+        "version": "b9f903fa8ed1809fb2bdc98bde438b69",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Plugins/Puerts/Typing/ffi/index.d.ts": {
+        "version": "a371a5609d4ee418c7557ae5aa47afae",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Plugins/Puerts/Typing/puerts/index.d.ts": {
+        "version": "ba340b6b8683f67de2de2f13602d846e",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Plugins/Puerts/Typing/ue/index.d.ts": {
+        "version": "9e737f766cccf8e191785d2750a73078",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Plugins/Puerts/Typing/ue/puerts.d.ts": {
+        "version": "85d2d47c370722abdada5699b34866e1",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Plugins/Puerts/Typing/ue/ue.d.ts": {
+        "version": "3408ee7b8c6d08cc426207e30909eb37",
+        "processed": true,
+        "isBP": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Plugins/Puerts/Typing/ue/ue_s.d.ts": {
+        "version": "18378c928d13e422f507a932b77ae6e6",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Plugins/Puerts/Typing/ue/puerts_decorators.d.ts": {
+        "version": "08e7288f0317a93dead15c0da7ee159e",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Plugins/Puerts/Typing/ue/ue_bp.d.ts": {
+        "version": "5c1ec8891a3db362839a778c49956f31",
+        "processed": true,
+        "isBP": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.esnext.full.d.ts": {
+        "version": "a89d6f47f873b21a3f3b196ad7636122",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.esnext.d.ts": {
+        "version": "f5f6f1d602a62877c7e56ff272bb994e",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "a4d16bb3b197ea917e86cb51d3c756fb",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "0d6879965adc671b402203b63c5d10a3",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "13a8d437713bc783595418ce386e6a13",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "be08cad9d7bdaff33f56073f232c1d10",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "0a1131d51319c271cc7d629462d519c4",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c547020c7fbe3180b04c6dc370e3f22a",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "2e680ad71ac90759312c479d9977c41d",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "08774f29b422b2eb670c8771903926cb",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "4a9a6e76acc4ed9de94af1ab262804b2",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "4aab3ece997453a191302e4e30f23433",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "83d1a7c35e0768c58fe83dca5326d29e",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "59d94c7b0fc5cad3c8740581fe0e3ed2",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "b7bbdaae03d33f7cceb7f74da5fc46e5",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "4949e01316f6630920079970e91a3caf",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "617439775b0e9f84c9a480446e45a67f",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "9b41b67da8c8cf6392b27aad1d284ef9",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "6cba9e615995bea068757d9f74170af9",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "6a61ee81146e2b8e4b5d8d01e182303e",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "454e01422cd924bb16e6959e579efc26",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "858331ea5156041b456553f9a4c1fabe",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "15e2a878314c3ba539a90b2abfe07b10",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "64c2d7b9a8dd3bee6a893ff320c1e374",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "e2e8008393d224047918fb4dcf4c860f",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "e5362e0e66499b0e40f996db3abdeac7",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "f228f81da0b49fd764ebbf8ffcd38f6b",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "4afb14b71f428a6bc9eb9e6505d0a1d4",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "778ff726d8eb8cf0505b013d224ea7af",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "5fefe5ea8cd4da925051c49ae27d7ac8",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
+        "version": "0d2f11ff1518fe923e94621d8a27edf6",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "4e2ab45b5daa83c09078d9269217b9da",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "93b916a4bc8f74a9ef98954284094022",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "27ae323cb3ece92d4ad6c84eed7e79ff",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "1602528aa2c23a63424d430e935e869b",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/Content/JavaScript/PuertsEditor/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "64c7394b4fec20b93c353fc725d4b50c",
+        "processed": false
+    },
+    "E:/UnrealProjects/PuertsDemo/TypeScript/Res/Point/TS_Player.ts": {
+        "version": "ef00c79737df6f32db2e764d0b80e7b5",
+        "processed": true,
+        "isBP": false
+    },
+    "E:/UnrealProjects/PuertsDemo/TypeScript/Res/Point/TS_Player1.ts": {
+        "version": "ad75b4bea8a90f4a0262d4d25a7c7dc3",
+        "processed": true,
+        "isBP": true
+    },
+    "E:/UnrealProjects/PuertsDemo/TypeScript/Res/TestFolder1/TS_Player1.ts": {
+        "version": "ad75b4bea8a90f4a0262d4d25a7c7dc3",
+        "processed": true,
+        "isBP": true
+    },
+    "E:/UnrealProjects/PuertsDemo/TypeScript/Res/TestFolder2/TS_Player2.ts": {
+        "version": "097fd2ec089590003bd9f654ffc07eb3",
+        "processed": true,
+        "isBP": true
+    },
+    "E:/UnrealProjects/PuertsDemo/TypeScript/Res/TestFolder2/TS_Player2 copy.ts": {
+        "version": "097fd2ec089590003bd9f654ffc07eb3",
+        "processed": true,
+        "isBP": false
+    },
+    "E:/UnrealProjects/PuertsDemo/TypeScript/Res/TestFolder2/TS_测试Player.ts": {
+        "version": "5e1f543bc10199e9945a3087b9c430a5",
+        "processed": true,
+        "isBP": true
+    }
+}
