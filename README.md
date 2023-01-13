@@ -35,3 +35,7 @@ This is a puerts demo based on unreal engine 5.1.
 3. 在启动虚拟机时，默认加载JavaScript文件的根目录时Content/JavaScript,可以通过配置文件修改，在MakeSharedJsEnv中使用Settings.ScriptRoot构造FJsEnv
 4. 在JsEnv.Build.cs中修改TS_BLUEPRINT_PATH定义的蓝图生成目录，此目录为ts生成蓝图的存放路径
 
+参考[Puerts & ReactUMG 环境搭建](https://zhuanlan.zhihu.com/p/397369095)
+参考[Puerts安装和调试](https://zhuanlan.zhihu.com/p/456267138)
+
+
