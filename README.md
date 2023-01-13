@@ -36,6 +36,6 @@ This is a puerts demo based on unreal engine 5.1.
 4. 在JsEnv.Build.cs中修改TS_BLUEPRINT_PATH定义的蓝图生成目录，此目录为ts生成蓝图的存放路径
 
 参考[Puerts & ReactUMG 环境搭建](https://zhuanlan.zhihu.com/p/397369095)
-参考[Puerts安装和调试](https://zhuanlan.zhihu.com/p/456267138)
+和[Puerts安装和调试](https://zhuanlan.zhihu.com/p/456267138)
 
 
